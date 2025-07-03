@@ -1,7 +1,7 @@
-# saree-saga
+`# saree-saga
 # 🧵 RRSK Sarees – Responsive E-Commerce Website
 
-link: 
+link: https://koushika-raju.github.io/saree-saga/
 
 A beautifully crafted, mobile-first **saree shopping website** built with **HTML** and **Tailwind CSS**, designed for elegance, speed, and responsiveness across all devices.
 
